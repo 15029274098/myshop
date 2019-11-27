@@ -21,6 +21,8 @@
     "webpack-dev-server": "^1.16.5"
   },
   "dependencies": {
+    "font-awesome": "^4.7.0",
+    "hogan": "^1.0.2",
     "jquery": "^3.4.1",
     "query": "^0.2.0"
   },
